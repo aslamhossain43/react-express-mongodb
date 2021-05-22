@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-express-mongodb",
+  "version": "1.0.0",
+  "description": "Simple crud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslamhossain43/nodejs-express-mongodb.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "Aslam Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aslamhossain43/nodejs-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/aslamhossain43/nodejs-express-mongodb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10"
+  }
+}
